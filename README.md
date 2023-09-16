@@ -31,7 +31,7 @@
 
 
 - ### I’m currently learning 
-![Angular](https://img.shields.io/badge/-angular-%23282C34?style=flat-square&logo=react)
+![Angular](https://img.shields.io/badge/-angular-%23282C34?style=flat-square&logo=angular)
 ![typescript](https://img.shields.io/badge/-typescript-2e72bc?style=flat-square&logo=typescript&logoColor=ffffff)
 
 
@@ -39,6 +39,7 @@
 
  ### 🔗Contact Me
 [![FaceBook](https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white)](https://www.facebook.com/profile.php?id=100009405839587).
+
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white&link=mailto:AmrSaaayed74@gmail.com)](abdalrhamanmahfouz@gmail.com)
 
 [![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white
